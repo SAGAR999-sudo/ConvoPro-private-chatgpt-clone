@@ -1,4 +1,4 @@
-streamlit==1.49.1git 
+streamlit==1.49.1
 ollama==0.5.3
 llama-index==0.14.0
 llama-index-llms-ollama==0.7.2
